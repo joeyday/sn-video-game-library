@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" label="Platform" max_length="40" name="x_10559_v_platform" type="collection">
+        <element label="Manufacturer" max_length="32" name="manufacturer" reference="core_company" type="reference"/>
+        <element display="true" label="Platform" max_length="250" name="name" type="string"/>
+        <index name="index">
+            <element name="manufacturer"/>
+        </index>
+    </element>
+</database>

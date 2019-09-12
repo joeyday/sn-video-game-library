@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="played_status" table="x_10559_v_platform_game" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>played_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Started</label>
+            <language>en</language>
+            <name>x_10559_v_platform_game</name>
+            <sequence>10</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-12 18:25:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fa763f5adbbb3300f3fa29e1ca9619aa</sys_id>
+            <sys_mod_count>7</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-12 18:30:28</sys_updated_on>
+            <value>Started</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>played_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Finished</label>
+            <language>en</language>
+            <name>x_10559_v_platform_game</name>
+            <sequence>20</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-12 18:22:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b3a57b5adbbb3300f3fa29e1ca96191a</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-12 18:30:30</sys_updated_on>
+            <value>Finished</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>played_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>100% / platinum</label>
+            <language>en</language>
+            <name>x_10559_v_platform_game</name>
+            <sequence>30</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-12 18:22:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ecc5f75adbbb3300f3fa29e1ca961935</sys_id>
+            <sys_mod_count>5</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-12 18:30:33</sys_updated_on>
+            <value>100% / platinum</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>played_status</element>
+            <name>x_10559_v_platform_game</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-12 18:22:18</sys_created_on>
+            <sys_id>f4a5775adbbb3300f3fa29e1ca9619f6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>played_status</sys_name>
+            <sys_package display_value="Video Game Library" source="x_10559_v">f8ddab8adb333300f3fa29e1ca9619ca</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Video Game Library">f8ddab8adb333300f3fa29e1ca9619ca</sys_scope>
+            <sys_update_name>sys_choice_x_10559_v_platform_game_played_status</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-12 18:22:18</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

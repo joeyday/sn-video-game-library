@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="esrb_rating" table="x_10559_v_game" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>esrb_rating</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Rating Pending (RP)</label>
+            <language>en</language>
+            <name>x_10559_v_game</name>
+            <sequence>10</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-12 16:27:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5f4bd31adb7b3300f3fa29e1ca9619af</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-12 16:29:12</sys_updated_on>
+            <value>Rating Pending (RP)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>esrb_rating</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Early Childhood (EC)</label>
+            <language>en</language>
+            <name>x_10559_v_game</name>
+            <sequence>20</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-12 16:30:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>211c531adb7b3300f3fa29e1ca9619f4</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-12 16:31:03</sys_updated_on>
+            <value>Early Childhood (EC)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>esrb_rating</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Everyone (E)</label>
+            <language>en</language>
+            <name>x_10559_v_game</name>
+            <sequence>30</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-12 16:27:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>967b971adb7b3300f3fa29e1ca9619fa</sys_id>
+            <sys_mod_count>5</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-12 16:31:05</sys_updated_on>
+            <value>Everyone (E)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>esrb_rating</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Everyone 10+ (E10+)</label>
+            <language>en</language>
+            <name>x_10559_v_game</name>
+            <sequence>40</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-12 16:28:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>40abd31adb7b3300f3fa29e1ca9619e0</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-12 16:31:07</sys_updated_on>
+            <value>Everyone 10+ (E10+)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>esrb_rating</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Teen (T)</label>
+            <language>en</language>
+            <name>x_10559_v_game</name>
+            <sequence>50</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-12 16:29:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>23cbdb1adb7b3300f3fa29e1ca961950</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-12 16:31:09</sys_updated_on>
+            <value>Teen (T)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>esrb_rating</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Mature (M)</label>
+            <language>en</language>
+            <name>x_10559_v_game</name>
+            <sequence>60</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-12 16:30:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>340c5f1adb7b3300f3fa29e1ca96196e</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-12 16:31:11</sys_updated_on>
+            <value>Mature (M)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>esrb_rating</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Adults Only (AO)</label>
+            <language>en</language>
+            <name>x_10559_v_game</name>
+            <sequence>70</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-12 16:29:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4deb531adb7b3300f3fa29e1ca9619ee</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-12 16:31:13</sys_updated_on>
+            <value>Adults Only (AO)</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>esrb_rating</element>
+            <name>x_10559_v_game</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-12 16:27:47</sys_created_on>
+            <sys_id>576b131adb7b3300f3fa29e1ca9619f6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>esrb_rating</sys_name>
+            <sys_package display_value="Video Game Library" source="x_10559_v">f8ddab8adb333300f3fa29e1ca9619ca</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Video Game Library">f8ddab8adb333300f3fa29e1ca9619ca</sys_scope>
+            <sys_update_name>sys_choice_x_10559_v_game_esrb_rating</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-12 16:27:47</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

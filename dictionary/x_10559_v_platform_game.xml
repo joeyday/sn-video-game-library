@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" label="Platform Game" max_length="40" name="x_10559_v_platform_game" type="collection">
+        <element label="Game" max_length="32" name="game" reference="x_10559_v_game" type="reference"/>
+        <element choice="1" label="Library status" max_length="40" name="library_status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Wishlist" sequence="10" value="Wishlist"/>
+                <element inactive_on_update="false" label="Borrowed" sequence="20" value="Borrowed"/>
+                <element inactive_on_update="false" label="Purchased" sequence="30" value="Purchased"/>
+            </choice>
+        </element>
+        <element display="true" label="Name" max_length="250" name="name" type="string"/>
+        <element label="Notes" max_length="2000" name="notes" type="string"/>
+        <element label="Now playing" max_length="40" name="now_playing" type="boolean"/>
+        <element label="Platform" max_length="32" name="platform" reference="x_10559_v_platform" type="reference"/>
+        <element choice="1" label="Progress" max_length="40" name="progress" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Started" sequence="10" value="Started"/>
+                <element inactive_on_update="false" label="Finished" sequence="20" value="Finished"/>
+                <element inactive_on_update="false" label="100%" sequence="30" value="100%"/>
+                <element inactive_on_update="false" label="Platinum" sequence="40" value="Platinum"/>
+            </choice>
+        </element>
+        <element attributes="omit_sys_original=true" label="Purchase price" max_length="20" name="purchase_price" type="currency"/>
+        <element label="Release date" max_length="40" name="release_date" type="glide_date"/>
+        <element attributes="omit_sys_original=true" label="Retail price" max_length="20" name="retail_price" type="currency"/>
+        <element attributes="omit_sys_original=true" label="Sales tax" max_length="20" name="sales_tax" type="currency"/>
+        <element label="Want to play" max_length="40" name="want_to_play" type="boolean"/>
+        <index name="index">
+            <element name="game"/>
+        </index>
+        <index name="index2">
+            <element name="platform"/>
+        </index>
+    </element>
+</database>

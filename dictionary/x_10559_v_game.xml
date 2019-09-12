@@ -1,3 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Game" max_length="40" name="x_10559_v_game" type="collection"/>
+    <element audit="true" label="Game" max_length="40" name="x_10559_v_game" type="collection">
+        <element label="Developers" max_length="4000" name="developers" reference="core_company" type="glide_list"/>
+        <element choice="1" label="ESRB rating" max_length="40" name="esrb_rating" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Rating Pending (RP)" sequence="10" value="Rating Pending (RP)"/>
+                <element inactive_on_update="false" label="Early Childhood (EC)" sequence="20" value="Early Childhood (EC)"/>
+                <element inactive_on_update="false" label="Everyone (E)" sequence="30" value="Everyone (E)"/>
+                <element inactive_on_update="false" label="Everyone 10+ (E10+)" sequence="40" value="Everyone 10+ (E10+)"/>
+                <element inactive_on_update="false" label="Teen (T)" sequence="50" value="Teen (T)"/>
+                <element inactive_on_update="false" label="Mature (M)" sequence="60" value="Mature (M)"/>
+                <element inactive_on_update="false" label="Adults Only (AO)" sequence="70" value="Adults Only (AO)"/>
+            </choice>
+        </element>
+        <element label="Genres" max_length="4000" name="genres" reference="x_10559_v_genre" type="glide_list"/>
+        <element label="Modes" max_length="4000" name="modes" reference="x_10559_v_mode" type="glide_list"/>
+        <element display="true" label="Name" max_length="250" name="name" type="string"/>
+        <element label="Platforms" max_length="4000" name="platforms" reference="x_10559_v_platform" type="glide_list"/>
+        <element label="Publishers" max_length="4000" name="publishers" reference="core_company" type="glide_list"/>
+        <element label="Review" max_length="2000" name="review" type="string"/>
+    </element>
 </database>

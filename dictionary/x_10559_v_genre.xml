@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Genre" max_length="40" name="x_10559_v_genre" type="collection">
+        <element display="true" label="Name" max_length="250" name="name" type="string"/>
+        <element label="Parent" max_length="32" name="parent" reference="x_10559_v_genre" type="reference"/>
+        <index name="index">
+            <element name="parent"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="5da3b31adbbb3300f3fa29e1ca96192d" sys_domain="global" table="x_10559_v_platform_game" version="3" view="">
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-12 18:50:36</sys_created_on>
+            <sys_id>e31cb39edbbb3300f3fa29e1ca9619f5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-12 18:50:36</sys_updated_on>
+            <text>Library</text>
+            <type display_value="Section Separator">443e806c0fd30000b12e6903cfe01281</type>
+        </sys_ui_annotation>
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-12 18:50:36</sys_created_on>
+            <sys_id>e71cb39edbbb3300f3fa29e1ca9619f5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-12 18:50:36</sys_updated_on>
+            <text>Notes</text>
+            <type display_value="Section Separator">443e806c0fd30000b12e6903cfe01281</type>
+        </sys_ui_annotation>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-12 18:50:36</sys_created_on>
+            <sys_id>ab1cb39edbbb3300f3fa29e1ca9619f5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_10559_v_platform_game" sys_domain="global" view="Default view">5da3b31adbbb3300f3fa29e1ca96192d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-12 18:50:36</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>game</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-12 18:50:36</sys_created_on>
+            <sys_id>2f1cb39edbbb3300f3fa29e1ca9619f5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_10559_v_platform_game" sys_domain="global" view="Default view">5da3b31adbbb3300f3fa29e1ca96192d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-12 18:50:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>platform</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-12 18:50:36</sys_created_on>
+            <sys_id>af1cb39edbbb3300f3fa29e1ca9619f5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_10559_v_platform_game" sys_domain="global" view="Default view">5da3b31adbbb3300f3fa29e1ca96192d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-12 18:50:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>release_date</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-12 18:50:36</sys_created_on>
+            <sys_id>231cb39edbbb3300f3fa29e1ca9619f6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_10559_v_platform_game" sys_domain="global" view="Default view">5da3b31adbbb3300f3fa29e1ca96192d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-12 18:50:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-12 18:50:36</sys_created_on>
+            <sys_id>a31cb39edbbb3300f3fa29e1ca9619f6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_10559_v_platform_game" sys_domain="global" view="Default view">5da3b31adbbb3300f3fa29e1ca96192d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-12 18:50:36</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>want_to_play</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-12 18:50:36</sys_created_on>
+            <sys_id>271cb39edbbb3300f3fa29e1ca9619f6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_10559_v_platform_game" sys_domain="global" view="Default view">5da3b31adbbb3300f3fa29e1ca96192d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-12 18:50:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>now_playing</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-12 18:50:36</sys_created_on>
+            <sys_id>a71cb39edbbb3300f3fa29e1ca9619f6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_10559_v_platform_game" sys_domain="global" view="Default view">5da3b31adbbb3300f3fa29e1ca96192d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-12 18:50:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>progress</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-12 18:50:36</sys_created_on>
+            <sys_id>2b1cb39edbbb3300f3fa29e1ca9619f6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_10559_v_platform_game" sys_domain="global" view="Default view">5da3b31adbbb3300f3fa29e1ca96192d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-12 18:50:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-12 18:50:36</sys_created_on>
+            <sys_id>ab1cb39edbbb3300f3fa29e1ca9619f6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_10559_v_platform_game" sys_domain="global" view="Default view">5da3b31adbbb3300f3fa29e1ca96192d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-12 18:50:36</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>e31cb39edbbb3300f3fa29e1ca9619f5</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-12 18:50:36</sys_created_on>
+            <sys_id>2f1cb39edbbb3300f3fa29e1ca9619f6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_10559_v_platform_game" sys_domain="global" view="Default view">5da3b31adbbb3300f3fa29e1ca96192d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-12 18:50:36</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-12 18:50:36</sys_created_on>
+            <sys_id>af1cb39edbbb3300f3fa29e1ca9619f6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_10559_v_platform_game" sys_domain="global" view="Default view">5da3b31adbbb3300f3fa29e1ca96192d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-12 18:50:36</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>library_status</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-12 18:50:36</sys_created_on>
+            <sys_id>231cb39edbbb3300f3fa29e1ca9619f7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_10559_v_platform_game" sys_domain="global" view="Default view">5da3b31adbbb3300f3fa29e1ca96192d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-12 18:50:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>retail_price</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-12 18:50:36</sys_created_on>
+            <sys_id>a31cb39edbbb3300f3fa29e1ca9619f7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_10559_v_platform_game" sys_domain="global" view="Default view">5da3b31adbbb3300f3fa29e1ca96192d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-12 18:50:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-12 18:50:36</sys_created_on>
+            <sys_id>271cb39edbbb3300f3fa29e1ca9619f7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_10559_v_platform_game" sys_domain="global" view="Default view">5da3b31adbbb3300f3fa29e1ca96192d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-12 18:50:36</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>purchase_price</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-12 18:50:36</sys_created_on>
+            <sys_id>a71cb39edbbb3300f3fa29e1ca9619f7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_10559_v_platform_game" sys_domain="global" view="Default view">5da3b31adbbb3300f3fa29e1ca96192d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-12 18:50:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sales_tax</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-12 18:50:36</sys_created_on>
+            <sys_id>2b1cb39edbbb3300f3fa29e1ca9619f7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_10559_v_platform_game" sys_domain="global" view="Default view">5da3b31adbbb3300f3fa29e1ca96192d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-12 18:50:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>16</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-12 18:50:36</sys_created_on>
+            <sys_id>ab1cb39edbbb3300f3fa29e1ca9619f7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_10559_v_platform_game" sys_domain="global" view="Default view">5da3b31adbbb3300f3fa29e1ca96192d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-12 18:50:36</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>e71cb39edbbb3300f3fa29e1ca9619f5</element>
+            <position>17</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-12 18:50:36</sys_created_on>
+            <sys_id>2f1cb39edbbb3300f3fa29e1ca9619f7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_10559_v_platform_game" sys_domain="global" view="Default view">5da3b31adbbb3300f3fa29e1ca96192d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-12 18:50:36</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>notes</element>
+            <position>18</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-12 18:50:36</sys_created_on>
+            <sys_id>af1cb39edbbb3300f3fa29e1ca9619f7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_10559_v_platform_game" sys_domain="global" view="Default view">5da3b31adbbb3300f3fa29e1ca96192d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-12 18:50:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_10559_v_platform_game</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-12 18:13:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5da3b31adbbb3300f3fa29e1ca96192d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_10559_v_platform_game</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Video Game Library" source="x_10559_v">f8ddab8adb333300f3fa29e1ca9619ca</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Video Game Library">f8ddab8adb333300f3fa29e1ca9619ca</sys_scope>
+            <sys_update_name>sys_ui_section_5da3b31adbbb3300f3fa29e1ca96192d</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-12 18:13:36</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
